@@ -1,4 +1,4 @@
-<h2 align="center">About It</h2>
+<h2 align="center">About It:</h2>
 
 <div >Randomize a love chance(love is lie so is this program)</div>
 </p>
