@@ -13,7 +13,7 @@ def WaitingScreen():
     time.sleep(0.2)
     print("Please stand by")
     time.sleep(1)
-    print("-------------------- 0%⠀done")
+    print("-------------------- - 0%⠀done")
     time.sleep(1)
     print("**------------------ - 10%⠀done")
     time.sleep(0.5)
